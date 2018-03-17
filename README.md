@@ -1,0 +1,2 @@
+# pythonegitimi
+eğitimi Python 
